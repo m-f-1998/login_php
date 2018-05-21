@@ -1,4 +1,4 @@
-# Mastermind Game on Raspberry Pi
+# Login and Registration Script
 
 ### Created by Matthew Frankland (May 2018)
 
